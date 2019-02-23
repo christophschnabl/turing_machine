@@ -3,3 +3,9 @@
 
 #cpp
 build
+
+#CMake
+cmake-build-debug
+
+#CLION
+.idea

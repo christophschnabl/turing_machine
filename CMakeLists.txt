@@ -1,4 +1,4 @@
-cmake_minimum_required (VERSION 3.13.3)
+cmake_minimum_required (VERSION 3.13.2)
 project (turing_machine)
 
 include_directories(include)

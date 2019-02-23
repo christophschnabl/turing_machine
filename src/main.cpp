@@ -1,5 +1,9 @@
-#include <iostream>;
+#include <iostream>
+#include <queue>
+#include "tape.hpp"
+
 
 int main() {
-    std::cout << "hansi";
+    
+    Tape tape = Tape();
 }
