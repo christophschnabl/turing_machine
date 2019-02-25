@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #macOS
 .DS_Store
 
@@ -9,3 +10,14 @@ cmake-build-debug
 
 #CLION
 .idea
+=======
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+>>>>>>> 2facb86240eef0f4bf489290737fc2533c7a66b2
