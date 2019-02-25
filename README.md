@@ -27,6 +27,4 @@ Import Configuration as a textfile.
 0 1 1 1 L
 1 0 0 1 L
 1 1 2 1 R
-`
-
-
+````
