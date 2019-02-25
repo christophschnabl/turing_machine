@@ -9,10 +9,10 @@ Simple C++ Turing Machine implementation
 
 ## Run
 1. executable is in the `/build` directory
-2. `./turing_machine <configuration>`
+2. `./turing_machine <configuration-file>`
 
 ## Configuration  
-Import Configuration as a textfile. 
+Import Configuration as a textfile. Place it in the `/build` directory
 ### Examples:  
 #### 2-state-busy-beaver:  
 
