@@ -8,13 +8,13 @@ Simple C++ Turing Machine implementation
 `make`
 
 ## Run
-1. executable is in the `/build` directory
+1. after building the executable can be found in the `/build` directory
 2. `./turing_machine <configuration-file>`
 
-## Configuration  
-Import Configuration as a textfile. Place it in the `/build` directory
+## Configuration File
+Import Configuration as a textfile. Place it in the `/build` directory or anywhere else as long as you know the path ;)
 ### Examples:  
-#### 2-state-busy-beaver:  
+#### 2-state-busy-beaver (see : https://en.wikipedia.org/wiki/Busy_beaver) 
 
 ```
 0 1 2  
