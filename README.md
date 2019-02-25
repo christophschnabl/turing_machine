@@ -2,7 +2,7 @@
 Simple C++ Turing Machine implementation
 
 ## Build
-`cmake ..`
-`make
+`cmake ..
+make
 
 ## Run
