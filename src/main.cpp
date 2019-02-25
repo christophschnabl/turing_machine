@@ -8,9 +8,18 @@
 using namespace std;
 
 
-int main() {
+int main(int argc, char** argv) {
 
-    Machine m = Machine("1state");
+    for (int i = 0; i < argc; i++) {cout << argv[i] << endl;}
+
+    if (argc < 2) {
+        cerr << "Help!" << endl;
+    } else {
+        Machine m = Machine(argv[1]);
+        m.print();
+        m.run();
+        m.print();
+    }
 
     /*set<int> states;
     int start_state;
@@ -106,8 +115,4 @@ int main() {
     /*machine.print();
     machine.run();
     machine.print();*/
-
-    m.print();
-    m.run();
-    m.print();
 }
